@@ -12,11 +12,11 @@ Attribution
 Use Cases
 
 * This guide could be used by an **enthusiast** to build their own cyanogenmod ROM
-* This guide could be used by a (brave) **teacher **to show **learners **about important concepts like device reporgrammability, open source, compilers, and digital self-empowerment.  
-* This guide could be used by **activists **to explain why open source freedoms must be preserved. 
-* This guide can be used in windows via a **Virtual Machin**e or the venerable **MobaXterm + SSH** connection to a Ubuntu 15.10 PC.
+* This guide could be used by a (brave) **teacher** to help **learners** to know the hands-on utility of concepts like device reporgrammability, open source, compilers, and digital self-empowerment.  This right here, this is why open source matters and the DMCA is a threat to everybody.  
+* This guide could be used by **activists**to explain why open source freedoms must be preserved. 
+* This guide can be used in windows via a **Virtual Machine** or the venerable **MobaXterm + SSH** connection to a Ubuntu 15.10 PC.
 * This guide can be used in **Mac OS X** via a **Virtual Machine** or **iTerm2**.  
-* For those in a hurry, this guide can be used as a script, found at https://github.com/faddat/cyanogenmodscript
+* For those in a hurry, this guide can be used as a script, found at https://github.com/superordinate/cyanogenmodscript
 
 Assumptions:
 
