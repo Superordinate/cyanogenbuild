@@ -11,12 +11,15 @@ repopick -t zenfone2_bringup
 source build/envsetup.sh
 #Downlaods config & kernel source for Asus Zenfone 2
 breakfast Z00A
-#Makes a folder to put extracted bullshit closed source binary blobs into
-cd ~/android/system/device/asus/Z00A
-#Extracts files from your device which have copyright bullshit and so must be used as binaries.  Fuck copyrights they're in opposition to your 
-#basic freedoms as a human.
-./extract-files.sh
-#Returns us to the workdir
+#Extracts files from your device which have no open source equivalents available and so must be used as binaries.  
+#./extract-files.sh (you'd want to do this for most devices, however, I was getting a build problem due to this, so instead:
+#Places proprietary files that cannot be built into a location where they can be used
+cd proprietary/vendor/
+#Deletes the folder "asus" if there is one (better to start fresh)
+rm -rf asus
+#clones the repository for asus device proprietary files
+git clone https://github.com/CM-zenfone2/proprietary_vendor_asus
+#returns us to the workdir
 cd ~/android/system/
 #I honestly do not know what this command does :(.  If I had to guess it is telling the compilers living in linux's bowels that this is the root 
 #of the c code to be compiled.
