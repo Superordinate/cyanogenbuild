@@ -5,7 +5,12 @@ ZF2 Cyanogenmod for mainlined devices
 
 Attribution
 
-* I couldn't care less about copyrights, and I encourage you to flaunt them as they are an affront to human dignity.  There is no need whatsoever to attribute me in your re-uses of this work.  If you want to, my name is Jacob Gadikian, e-mail is jake@klouds.org (mailto:jake@klouds.org), and phone number is +84 01677896421 (tel:+8401677896421).  On most days, if you want to see me, I can be found at 695 Hoang Hoa Tham in Hanoi, Vietnam on the third floor of the building.  
+* I couldn't care less about copyrights, and I encourage you to flaunt them as they are an affront to human dignity.  There is no need whatsoever to attribute me in your re-uses of this work.  If you want to, 
+ * my name is Jacob Gadikian, 
+ * e-mail is jake@klouds.org (mailto:jake@klouds.org), 
+ * and phone number is +84 01677896421 (tel:+8401677896421).  
+ * On most days, if you want to see me, I can be found at: 
+  * 695 Hoang Hoa Tham in Hanoi, Vietnam on the third floor of the building.  
 * That said, I should give attribution to the literally thousands of people who actually wrote the code that this guide builds into a coherent Android Operating System.  Thanks, OSS coders of earth!
 * Additionally, a tip of the hat to Google, who made its OS open for competitive reasons, and improved the world by doing so.  
 
