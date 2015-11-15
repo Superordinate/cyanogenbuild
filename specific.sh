@@ -1,5 +1,6 @@
-#!/bin/bash Gets the build environment and build tools ready.  One of the best things CM did for Android is make an incredible framework of tools.  
-#Thanks guys!
+#!/bin/bash 
+#Gets the build environment and build tools ready.  
+#One of the best things CM did for Android is make an incredible framework of tools. Thanks guys!
 source build/envsetup.sh
 #gets zf2 specific files for the quick charge feature
 repopick -t quick-charge-ui
