@@ -13,7 +13,7 @@ breakfast Z00A
 # Extracts files from your device which have no open source equivalents available and so must be used as binaries.  
 # ./extract-files.sh (you'd want to do this for most devices, however, I was getting a build problem due to this, so instead:
 # Places proprietary files that cannot be built into a location where they can be used
-cd proprietary/vendor/
+cd vendor
 # Deletes the folder "asus" if there is one (better to start fresh)
 rm -rf asus
 # clones the repository for asus device proprietary files
